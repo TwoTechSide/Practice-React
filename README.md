@@ -1,12 +1,25 @@
-# React + Vite
+## 🚀 React.js에 대해 학습하기
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+inflearn을 통해 React를 배우며 학습한 내용을 기록하는 저장소입니다
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 폴더 구조
 
-## Expanding the ESLint configuration
+```
+PREACTICE-REACT/
+ ├─ src/
+ │   ├─ App.css
+ │   ├─ App.jsx
+ │   ├─ index.css
+ │   └─ main.jsx
+ ├─ .gitignore       : 깃허브에 올리면 안되는 파일 명시
+ ├─ index.html       : React의 기본 틀 역할
+ └─ vite.config.js   : vite 옵션
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧭 학습 히스토리
+
+-   2025.07.21 리액트 프로젝트 시작 및 깃허브 저장소 생성
